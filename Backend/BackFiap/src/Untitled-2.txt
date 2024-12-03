@@ -1,5 +1,0 @@
-
-mongoose.connect('mongodb+srv://Admin1:V4CQayDicB2eJvPO@backendfiap2.yevok.mongodb.net/?retryWrites=true&w=majority&appName=BackendFiap2')
-
-
-https://www.youtube.com/watch?v=0dzeLffRkkg&list=PL0QN_lbTofYcw7bzm8y-l2BMslKfMfNgr&index=4&ab_channel=codezero
