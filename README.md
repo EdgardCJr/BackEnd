@@ -33,11 +33,11 @@ Esta seção detalha a técnica utilizada para o desenvolvimento do backend com 
 4. **Iniciar o servidor:**
    - Execute o comando para iniciar o servidor backend:
      ```
-     node index.js
+     node src/index.js
      ```
      - Ou, se estiver usando `nodemon`:
        ```
-       nodemon index.js
+       nodemon src/index.js
        ```
    - O servidor estará ouvindo na porta definida (3000 por padrão ou na porta definida na variável de ambiente `PORT`).
 
