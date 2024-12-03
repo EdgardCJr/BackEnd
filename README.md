@@ -19,7 +19,8 @@ Esta seção detalha a técnica utilizada para o desenvolvimento do backend com 
 
 3. **Configurar o MongoDB:**
    - Caso não queria utilizar um MongoDB proprio a aplicação ja esta configurada para acessar o MongoDB oficial da aplicação.
-     Caso queria utilizar seu MongoDB >
+     
+   - Caso queria utilizar seu MongoDB >
      
    - Certifique-se de ter o MongoDB instalado e em execução.
    - Configure a string de conexão com o seu banco de dados no arquivo `index.js`. Exemplos:
